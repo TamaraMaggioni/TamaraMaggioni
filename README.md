@@ -1,4 +1,3 @@
-## 
 # 🌿 Welcome to my GitHub Portfolio!  
 
 Hello! I'm a **biologist, science communicator, and data scientist** passionate about uncovering the stories behind the data.  
@@ -25,6 +24,9 @@ My main tools are **Python** and **R**, with experience in **statistics, storyte
 Write me at: [tamaramaggioni@gmail.com](mailto:tamaramaggioni@gmail.com)  
 
 Thanks for visiting my profile! 😊
+
+
+---
 
 
 # 🌿 ¡Bienvenidos a mi Portafolio de GitHub!  
