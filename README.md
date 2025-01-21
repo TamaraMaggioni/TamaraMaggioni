@@ -1,16 +1,27 @@
-## Hi there 👋
+## 
+# 🌿 ¡Bienvenidos a mi Portafolio de GitHub!  
 
-<!--
-**TamaraMaggioni/TamaraMaggioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Hola! Soy una **bióloga, comunicadora científica y científica de datos** apasionada por descubrir las historias detrás de los datos.  
 
-Here are some ideas to get you started:
+- Actualmente trabajo en [**FreeTech Solutions**](https://www.freetechsolutions.com.ar/en) como **científica de datos (nivel inicial)**, especializada en **NLP/NLU con RASA**.  
+- También soy **coordinadora científica y secretaria** en la [**Fundación Ambiente Argentino**](https://ambienteargentino.org).  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tuve el honor (y sigo vinculada) de formar parte del grupo de investigación **GEMPA**, en el que estudiamos diversas áreas relacionadas con las aguas profundas. Personalmente, me especialicé en el estudio de un fascinante grupo de organismos marinos: las **ascidias** del Mar Argentino profundo y el Océano Antártico.  
+La **Antártida** es el sitio más hermoso y mágico que logré pisar en mi vida. 🌍💙  
+
+Soy **mamá de dos preciosos e increíbles criaturitas**, Uriel y Triana, y **pareja del mejor papá y compañero del universo**, Fabi. 👨‍👩‍👧‍👦💖
+
+Mis herramientas principales son **Python** y **R**, con experiencia en **estadística, storytelling** y exploración de **aprendizaje profundo**.  
+
+### 📚 Intereses  
+- Me encanta la **literatura**, en especial la **crónica científica** (una línea que comencé a desarrollar en la revista del [Instituto IDEA](https://www.idea.conicet.unc.edu.ar/revista-idea/)) y la **literatura de terror**.  
+- Soy una apasionada del **heavy metal** y disfruto los **deportes al aire libre**.  
+
+🎯 **Explorá mis proyectos**:  
+- [Mis trabajos en GitHub](https://github.com/TamaraMaggioni)  
+- [Revista IDEA](https://www.idea.conicet.unc.edu.ar/revista-idea/)  
+
+📬 **¿Querés contactarme?**  
+Escríbeme a: [tamaramaggioni@gmail.com](mailto:tamaramaggioni@gmail.com)  
+
+¡Gracias por visitar mi perfil! 😊
