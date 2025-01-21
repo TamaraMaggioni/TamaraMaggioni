@@ -9,7 +9,7 @@
 Tuve el honor (y sigo vinculada) de formar parte del grupo de investigación **GEMPA**, en el que estudiamos diversas áreas relacionadas con las aguas profundas. Personalmente, me especialicé en el estudio de un fascinante grupo de organismos marinos: las **ascidias** del Mar Argentino profundo y el Océano Antártico.  
 La **Antártida** es el sitio más hermoso y mágico que logré pisar en mi vida. 🌍💙  
 
-Soy **mamá de dos preciosos e increíbles criaturitas**, Uriel y Triana, y **pareja del mejor papá y compañero del universo**, Fabi. 👨‍👩‍👧‍👦💖
+Soy **mamá de dos preciosos e increíbles criaturitas**, Uriel y Triana, y **pareja del mejor papá y compañero de vida**, Fabi. 👨‍👩‍👧‍👦💖
 
 Mis herramientas principales son **Python** y **R**, con experiencia en **estadística, storytelling** y exploración de **aprendizaje profundo**.  
 
