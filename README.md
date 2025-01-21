@@ -8,7 +8,7 @@ Hello! I'm a **biologist, science communicator, and data scientist** passionate 
 I had the honor (and still remain involved) of being part of the **GEMPA** research group, where we studied various areas related to deep waters. Personally, I specialized in studying a fascinating group of marine organisms: **ascidians** from the deep waters of the Argentine Sea and the Antarctic Ocean.  
 The **Antarctica** is the most beautiful and magical place I've ever set foot on. 🌍💙  
 
-I'm a **mom of two precious and incredible little ones**, Uriel and Triana, and **partner of the best dad and companion in the universe**, Fabi. 👨‍👩‍👧‍👦💖
+I'm a **mom of two precious and incredible little ones**, Uriel and Triana, and **partner of the best dad and life partner**, Fabi. 👨‍👩‍👧‍👦💖
 
 My main tools are **Python** and **R**, with experience in **statistics, storytelling**, and exploring **deep learning**.  
 
