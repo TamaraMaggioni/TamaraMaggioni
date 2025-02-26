@@ -17,7 +17,7 @@ My main tools are **Python** and **R**, with experience in **statistics, storyte
 - I’m passionate about **heavy metal** and enjoy **outdoor sports**.  
 
 🎯 **Explore my projects**:  
-- [My work on GitHub](https://github.com/TamaraMaggioni)  
+- [My work on GitHub](https://github.com/TamaraMaggioni?tab=repositories)  
 - [Revista IDEA](https://www.idea.conicet.unc.edu.ar/revista-idea/)  
 
 📬 **Want to contact me?**  
@@ -48,7 +48,7 @@ Mis herramientas principales son **Python** y **R**, con experiencia en **estad�
 - Soy una apasionada del **heavy metal** y disfruto los **deportes al aire libre**.  
 
 🎯 **Explorá mis proyectos**:  
-- [Mis trabajos en GitHub](https://github.com/TamaraMaggioni)  
+- [Mis trabajos en GitHub](https://github.com/TamaraMaggioni?tab=repositories)  
 - [Revista IDEA](https://www.idea.conicet.unc.edu.ar/revista-idea/)  
 
 📬 **¿Querés contactarme?**  
