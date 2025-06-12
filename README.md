@@ -2,7 +2,7 @@
 
 Hello! I'm a **biologist, science communicator, and data scientist** passionate about uncovering the stories behind the data.  
 
-- I currently work at [**FreeTech Solutions**](https://www.freetechsolutions.com.ar/en) as a **data scientist (beginner level)**, specializing in **NLP/NLU with RASA**.  
+- I currently work at [**FreeTech Solutions**](https://www.freetechsolutions.com.ar/en) as a **data scientist**, specializing in **NLP/NLU with RASA**.  
 - I’m also the **scientific coordinator and secretary** at [**Fundación Ambiente Argentino**](https://ambienteargentino.org).  
 
 I had the honor (and still remain involved) of being part of the **GEMPA** research group, where we studied various areas related to deep waters. Personally, I specialized in studying a fascinating group of marine organisms: **ascidians** from the deep waters of the Argentine Sea and the Antarctic Ocean.  
@@ -33,7 +33,7 @@ Thanks for visiting my profile! 😊
 
 ¡Hola! Soy una **bióloga, comunicadora científica y científica de datos** apasionada por descubrir las historias detrás de los datos.  
 
-- Actualmente trabajo en [**FreeTech Solutions**](https://www.freetechsolutions.com.ar/en) como **científica de datos (nivel inicial)**, especializada en **NLP/NLU con RASA**.  
+- Actualmente trabajo en [**FreeTech Solutions**](https://www.freetechsolutions.com.ar/en) como **científica de datos**, especializada en **NLP/NLU con RASA**.  
 - También soy **coordinadora científica y secretaria** en la [**Fundación Ambiente Argentino**](https://ambienteargentino.org).  
 
 Tuve el honor (y sigo vinculada) de formar parte del grupo de investigación **GEMPA**, en el que estudiamos diversas áreas relacionadas con las aguas profundas. Personalmente, me especialicé en el estudio de un fascinante grupo de organismos marinos: las **ascidias** del Mar Argentino profundo y el Océano Antártico.  
