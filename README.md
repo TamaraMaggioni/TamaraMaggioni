@@ -5,7 +5,7 @@ Hello! I'm a **biologist, science communicator, and data scientist** passionate 
 - I currently work at [**FreeTech Solutions**](https://www.freetechsolutions.com.ar/en) as a **data scientist**, specializing in **NLP/NLU with RASA**.  
 - I’m also the **scientific coordinator and secretary** at [**Fundación Ambiente Argentino**](https://ambienteargentino.org).  
 
-I had the honor (and still remain involved) of being part of the **GEMPA** (**https://www.instagram.com/gempa.ar/**) research group, where we studied various areas related to deep waters. Personally, I specialized in studying a fascinating group of marine organisms: **ascidians** from the deep waters of the Argentine Sea and the Antarctic Ocean.  
+I had the honor (and still remain involved) of being part of the **GEMPA** (**https://www.instagram.com/gempa.ar/**) research group, where we studY various aspects related to deep waters. Personally, I specialized in studying a fascinating group of marine organisms: **ascidians** from the deep waters of the Argentine Sea and the Antarctic Ocean.  
 The **Antarctica** is the most beautiful and magical place I've ever set foot on. 🌍💙  
 
 I'm a **mom of two precious and incredible little ones**, Uriel and Triana, and **life partner of the best dad and companion**, Fabi. 👨‍👩‍👧‍👦💖
@@ -36,7 +36,7 @@ Thanks for visiting my profile! 😊
 - Actualmente trabajo en [**FreeTech Solutions**](https://www.freetechsolutions.com.ar/en) como **científica de datos**, especializada en **NLP/NLU con RASA**.  
 - También soy **coordinadora científica y secretaria** en la [**Fundación Ambiente Argentino**](https://ambienteargentino.org).  
 
-Tuve el honor (y sigo vinculada) de formar parte del grupo de investigación **GEMPA**, en el que estudiamos diversas áreas relacionadas con las aguas profundas. Personalmente, me especialicé en el estudio de un fascinante grupo de organismos marinos: las **ascidias** del Mar Argentino profundo y el Océano Antártico.  
+Tuve el honor (y sigo vinculada) de formar parte del grupo de investigación **GEMPA** (**https://www.instagram.com/gempa.ar/**), en el que estudiamos diversas temáticas relacionadas con las aguas profundas. Personalmente, me especialicé en el estudio de un fascinante grupo de organismos marinos: las **ascidias** del Mar Argentino profundo y el Océano Antártico.  
 La **Antártida** es el sitio más hermoso y mágico que logré pisar en mi vida. 🌍💙  
 
 Soy **mamá de dos preciosas e increíbles criaturitas**, Uriel y Triana, y **pareja del mejor papá y compañero de vida**, Fabi. 👨‍👩‍👧‍👦💖
