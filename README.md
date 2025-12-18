@@ -5,7 +5,7 @@ Hello! I'm a **biologist, science communicator, and data scientist** passionate 
 - I currently work at [**FreeTech Solutions**](https://www.freetechsolutions.com.ar/en) as a **data scientist**, specializing in **NLP/NLU with RASA**.  
 - I’m also the **scientific coordinator and secretary** at [**Fundación Ambiente Argentino**](https://ambienteargentino.org).  
 
-I had the honor (and still remain involved) of being part of the **GEMPA** (**https://www.instagram.com/gempa.ar/**) research group, where we studY various aspects related to deep waters. Personally, I specialized in studying a fascinating group of marine organisms: **ascidians** from the deep waters of the Argentine Sea and the Antarctic Ocean.  
+I had the honor (and still remain involved) of being part of the **GEMPA** (**https://www.instagram.com/gempa.ar/**) research group, where we study various aspects related to deep waters. Personally, I specialized in studying a fascinating group of marine organisms: **ascidians** from the deep waters of the Argentine Sea and the Antarctic Ocean.  
 The **Antarctica** is the most beautiful and magical place I've ever set foot on. 🌍💙  
 
 I'm a **mom of two precious and incredible little ones**, Uriel and Triana, and **life partner of the best dad and companion**, Fabi. 👨‍👩‍👧‍👦💖
